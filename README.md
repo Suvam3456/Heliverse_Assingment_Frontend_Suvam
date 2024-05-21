@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Assignment: Frontend Web Development by SUVAM AGRAWAL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Assignment Description
+Your task is to replicate the home page of the provided website Motion Art Effect to the best of your ability. Your implementation should closely match the design, layout, animation, and functionality of the original page.
 
-## Available Scripts
+### WEBSITE LINK
+[Original Website Preview](https://preview.codecanyon.net/item/motion-art-for-elementor-wordpress-plugin/full_screen_preview/48826891?_ga=2.184816681.105772595.1715780017-162128807.1715780017)
 
-In the project directory, you can run:
+### Assets
+[Required Assets Google Drive Link](https://drive.google.com/drive/folders/15rCmcMDpRtqeyMzp_NR7Huq_3HmjAr0G?usp=sharing)
 
-### `npm start`
+## Tech Stack
+You are suggested to use the following tech stacks to complete this assignment:
+- React JS or Vanilla JS
+- GSAP
+- You can use any styling libraries like Tailwind, Material UI, etc.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Requirements
+- Create a pixel-perfect replica of the home page, including all sections, elements, and animations.
+- Ensure responsiveness across different devices and screen sizes.
+- Implement any interactive elements or functionality present on the original page.
+- Utilize the provided assets from the Google Drive link for consistency with the original design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Additional Information
+- Font Family: "Sora" and "Outfit"
+- Gradient Color: linear-gradient(90deg, #F87516 0%, #5E11FF 100%)
 
-### `npm test`
+## How to Deliver
+Upon completion of the assignment, you are required to deliver the following:
+- GitHub Repository Link: Share the link to your GitHub repository containing the code for your implementation.
+- Deployment Link or Video: Provide either a deployed website link where your implementation can be viewed, or a video walkthrough demonstrating the functionality and appearance of your implementation.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contact Information
+For any concerns or questions, you can reach out via email at anmol@heliverse.com or pm@heliverse.com.
